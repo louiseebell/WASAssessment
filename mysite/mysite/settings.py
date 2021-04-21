@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['louiseebell.pythonanywhere.com']
 
+DJANGO_SETTINGS_MODULE = mysite.settings
 
 # Application definition
 
